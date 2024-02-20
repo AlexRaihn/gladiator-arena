@@ -1,0 +1,48 @@
+.pers-attack-0{
+    background-image: url('../assets/pers/dmg0.gif');
+    background-size: 140% !important;
+}
+.pers-static-0{
+    background-image: url('../assets/pers/static0.gif');
+}
+.pers-def-0{
+    background-image: url('../assets/pers/defense0.gif');
+    background-size: 120% !important;
+}
+.pers-block-0{
+    background-image: url('../assets/pers/block0.gif');
+}
+.pers-taking_dmg-0{
+    background-image: url('../assets/pers/taking_dmg0.gif');
+}
+.pers-death-anim-0{
+    background-image: url('../assets/pers/death0.gif');
+}
+.pers-death-img-0{
+    background-image: url('../assets/pers/death-img0.png');
+    background-size: 140% !important;
+}
+.pers-static-1{
+    background-image: url('../assets/pers/static1.gif');
+}
+.pers-attack-1{
+    background-image: url('../assets/pers/attack1.gif');
+    background-size: 140% !important;
+}
+.pers-block-1{
+    background-image: url('../assets/pers/block1.gif');
+}
+.pers-death-anim-1{
+    background-image: url('../assets/pers/death1.gif');
+}
+.pers-taking_dmg-1{
+    background-image: url('../assets/pers/taking_dmg1.gif');
+}
+.pers-def-1{
+    background-image: url('../assets/pers/defense1.gif');
+    background-size: 120% !important;
+}
+.pers-death-img-1{
+    background-image: url('../assets/pers/death_r_PNG.png');
+    background-size: 140% !important;
+}

@@ -1,0 +1,14 @@
+.hp_icon{
+    background-image: url('../assets/icons/hp_icon.png');
+}
+.attack_icon{
+    background-image: url('../assets/icons/attack_icon.png');
+}
+.def_icon{
+    background-image: url('../assets/icons/def_icon.png');
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+}
